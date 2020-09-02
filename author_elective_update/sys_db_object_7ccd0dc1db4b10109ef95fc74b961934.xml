@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_needit</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 18:31:39</sys_created_on>
+        <sys_id>7ccd0dc1db4b10109ef95fc74b961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_7ccd0dc1db4b10109ef95fc74b961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 18:31:39</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8da12213db759740536ad5b0cf96198d</instance_id>
+        <instance_name>dev58343</instance_name>
+        <name>sys_db_object_7ccd0dc1db4b10109ef95fc74b961934</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>NeedIt</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_needit</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 18:31:39</sys_created_on><sys_id>7ccd0dc1db4b10109ef95fc74b961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit Needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_7ccd0dc1db4b10109ef95fc74b961934</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 18:31:39</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1687448043</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>551eb001db0310109ef95fc74b9619cb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-09-02 17:23:09</sys_created_on>
+        <sys_id>c9cd0dc1db4b10109ef95fc74b96195d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1744fd7fc480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table</type>
+        <update_guid>89cd0dc1064b1010687d3a227b1bc75d</update_guid>
+        <update_guid_history>89cd0dc1064b1010687d3a227b1bc75d:-1687448043</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 18:35:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>1bc14dd74e50467c88ff73664530c679</sys_id>
+        <sys_metadata>7ccd0dc1db4b10109ef95fc74b961934</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_db_object_7ccd0dc1db4b10109ef95fc74b961934</sys_update_name>
+        <sys_update_version display_value="sys_db_object_7ccd0dc1db4b10109ef95fc74b961934">c9cd0dc1db4b10109ef95fc74b96195d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 18:35:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
