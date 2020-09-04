@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
     <pa_cubes action="INSERT_OR_UPDATE">
         <benchmarking>false</benchmarking>
-        <conditions table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-        </conditions>
+        <conditions table="x_58872_needit_needit">active=true</conditions>
         <description>Active NeedIt requests this week</description>
         <facts_table>x_58872_needit_needit</facts_table>
         <facts_table_pk/>
         <facts_table_pktable/>
         <facts_table_pkview/>
         <frequency>20</frequency>
+        <max_record_fetch_count/>
         <name>NeedIt.ActiveWeekly</name>
+        <override_record_collection>false</override_record_collection>
         <report_source/>
         <report_source_updated_at>2018-11-14 03:43:59</report_source_updated_at>
         <sys_class_name>pa_cubes</sys_class_name>

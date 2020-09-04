@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
     <pa_cubes action="INSERT_OR_UPDATE">
         <benchmarking>false</benchmarking>
-        <conditions table="x_58872_needit_needit">u_when_neededONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()<item endquery="false" field="u_when_needed" goto="false" newquery="false" operator="ON" or="false" value="This month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()"/>
-        </conditions>
+        <conditions table="x_58872_needit_needit">u_when_neededONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()</conditions>
         <description>NeedIt requests due  this month</description>
         <facts_table>x_58872_needit_needit</facts_table>
         <facts_table_pk/>
         <facts_table_pktable/>
         <facts_table_pkview/>
         <frequency>40</frequency>
+        <max_record_fetch_count/>
         <name>NeedIt.ThisMonth</name>
+        <override_record_collection>false</override_record_collection>
         <report_source/>
         <report_source_updated_at/>
         <sys_class_name>pa_cubes</sys_class_name>
